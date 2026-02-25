@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dll
+*.exe
+*.log
+*.vsidx
+TestResults/
+node_modules/
+.env
